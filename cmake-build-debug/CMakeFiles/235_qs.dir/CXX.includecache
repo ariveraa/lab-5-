@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ariveraa/CLionProjects/235 qs/QS.cpp
+QS.h
+/Users/ariveraa/CLionProjects/235 qs/QS.h
+
+/Users/ariveraa/CLionProjects/235 qs/QS.h
+QSInterface.h
+/Users/ariveraa/CLionProjects/235 qs/QSInterface.h
+sstream
+-
+
+/Users/ariveraa/CLionProjects/235 qs/QSInterface.h
+iostream
+-
+string
+-
+

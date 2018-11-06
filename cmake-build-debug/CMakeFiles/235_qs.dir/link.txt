@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/235_qs.dir/main.cpp.o CMakeFiles/235_qs.dir/QS.cpp.o  -o 235_qs 
